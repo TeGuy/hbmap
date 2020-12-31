@@ -1,0 +1,3 @@
+[submodule "resources/ccc-starter-kit"]
+	path = resources/ccc-starter-kit
+	url = https://git.cccv.de/rc3/world-map-starterkit.git

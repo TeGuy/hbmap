@@ -838,7 +838,7 @@
         {
          "columns":18,
          "firstgid":321,
-         "image":"..\/workadventures\/rc3-tiles\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"resources\/rc3-tiles\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -851,7 +851,7 @@
         {
          "columns":20,
          "firstgid":2715,
-         "image":"..\/workadventures\/rc3-tiles\/community\/bytewerk\/cija_32x32_basic_CC0.png",
+         "image":"resources\/rc3-tiles\/community\/bytewerk\/cija_32x32_basic_CC0.png",
          "imageheight":960,
          "imagewidth":640,
          "margin":0,
@@ -864,7 +864,7 @@
         {
          "columns":16,
          "firstgid":3315,
-         "image":"..\/workadventures\/pub-map\/tilesets_deviant_milkian_2.png",
+         "image":"resources\/pub-map\/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -877,7 +877,7 @@
         {
          "columns":16,
          "firstgid":3571,
-         "image":"..\/workadventures\/pub-map\/tilesets_deviant_milkian_3.png",
+         "image":"resources\/pub-map\/tilesets_deviant_milkian_3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
