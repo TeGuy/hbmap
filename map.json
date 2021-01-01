@@ -843,12 +843,75 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":32,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
+                 "id":33,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
+                 "id":34,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
+                 "id":35,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
+                 "id":36,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
                  "id":37,
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"bool",
-                         "value":true
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
+                 "id":38,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
+                        }]
+                }, 
+                {
+                 "id":39,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"string",
+                         "value":"false"
                         }]
                 }],
          "tilewidth":32
