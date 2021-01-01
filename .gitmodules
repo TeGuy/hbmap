@@ -1,3 +1,9 @@
 [submodule "resources/ccc-starter-kit"]
 	path = resources/ccc-starter-kit
 	url = https://git.cccv.de/rc3/world-map-starterkit.git
+[submodule "resources/pub-map"]
+	path = resources/pub-map
+	url = https://github.com/npeguin/pub-map.git
+[submodule "resources/rc3-tiles"]
+	path = resources/rc3-tiles
+	url = https://git.cccv.de/rc3/world-tiles.git
